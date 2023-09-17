@@ -27,12 +27,6 @@ Clone the project
   git clone https://github.com/Ankit73-bit/Ecommerce-App.git
 ```
 
-Go to the project directory
-
-```bash
-  cd my-project
-```
-
 Install dependencies
 
 ```bash
